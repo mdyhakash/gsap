@@ -28,8 +28,11 @@ I've started with a series of mini projects to get comfortable with GSAP. These 
 ### Projects -:
 
 1. **Project 1 Custom Cursor**
-    - **Description** : I made custom cursor using gsap, the cursor while scale when you hover on the image you can try it yourself.
-    - **Code**: In the Project 1 folder the code is given.
+      - **Description** : I made custom cursor using gsap, the cursor while scale when you hover on the image you can try it yourself.
+      - **Code**: In the Project 1 folder the code is given.
+2. **Project 2 Animated Navbar**
+      - **Description** : Made a animated navbar using gsap timeline.
+      - **Code**: In the Project 2 folder the code is given.
 <!-- will add more mini projects  -->
 
 ### Full Websites
